@@ -6,15 +6,18 @@
 <br> **Situation**                                                                                                                                       
 A bike-sharing provider has a daily dataset on the rental bikes based on various environmental and seasonal settings. 
 <br> It wishes to use this data to understand the factors affecting the demand for these shared bikes in the market and come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown due to corona pandemic comes to an end.
+<br> 
 <br> **Task** 
 <br> Find which variables are significant in predicting the demand for shared bikes.
 <br> How well those variables describe the bike demands 
+<br>
 <br> **Action**
-The solution is divided into the following sections:
+<br>The solution is divided into the following sections:
 <br> Data understanding and exploration
 <br> Data Visualisation
 <br> Data preparation
 <br> Model building and evaluation
+<br>
 <br> **Result**
 <br> Simplest model with final predictors which have fairly low correlations
 
