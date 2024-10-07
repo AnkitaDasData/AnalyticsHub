@@ -1,3 +1,6 @@
+• Predict bike rental demand 
+– Creating multiple linear regression model for prediction of demand for shared bikes based on various factors
+
 Analysis - Predict_Bike_Rental_Demand.ipynb
 
 Data - day.csv
