@@ -1,1 +1,11 @@
-Data Source - https://www.kaggle.com/datasets/manusmitajha/countrydatacsv
+• Categorize countries based on needs 
+– Clustering using some socio-economic and health factors that determine the overall development of a country and suggest the countries which need the most help.
+-----------------------------------------------------------------------------------------------------------------
+Situation :
+Task :
+Action :
+Result :
+-----------------------------------------------------------------------------------------------------------------
+Analysis - Categorize_Countries_needs.ipynb
+Data Source - Country-data.csv
+Presentation - HELP.pdf
