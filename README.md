@@ -1,8 +1,9 @@
-STAR Method documentation for each project to be maintained
-Situation
-Task
-Action
-Result
+# STAR Method 
+<br> Documentation for each project to be maintained
+<br> Situation
+<br> Task
+<br> Action
+<br> Result
 -----------------------------------------------------------------------------------------------
 # Ideas-Efforts-Snippets
 Initial Plans / Rough Sketches of ideas
