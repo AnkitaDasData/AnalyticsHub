@@ -1,5 +1,3 @@
-# Data Integration and Analytics Platforms
-
 | **Platform**                | **Key Components**                                     | **Key Strengths**                                                                                  |
 |-----------------------------|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | **Microsoft Fabric**         | - Power BI <br> - Azure Synapse Analytics <br> - Azure Data Lake | - Unified data integration, storage, and analytics platform <br> - Tight integration with Microsoft tools <br> - Simplified workflow for data professionals |
