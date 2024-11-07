@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnkitaDasData&label=Profile%20views&color=0e75b6&style=flat" alt="AnkitaDasData" /> </p>
-
 
 # Ideas-Efforts-Snippets
 Initial Plans / Rough Sketches of ideas
@@ -18,4 +16,6 @@ Snippets:
 Small prototypes or experimental code snippets
 
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnkitaDasData&label=Profile%20views&color=0e75b6&style=flat" alt="AnkitaDasData" /> </p>
 
