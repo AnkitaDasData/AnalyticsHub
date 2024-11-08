@@ -16,6 +16,7 @@ The repository is a space for putting concepts, brainstorming, and efforts:
     - Thought process, challenges, and possible future directions  
    
 <br>  
+
 | Header 1 | Header 2 | Header 3 |
 |----------|----------|----------|
 | Row 1    | Data 1   | Data 2   |
