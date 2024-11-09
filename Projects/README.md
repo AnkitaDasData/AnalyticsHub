@@ -18,11 +18,10 @@
 <br>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnkitaDasData&label=Profile%20views&color=lightgrey&style=flat" alt="AnkitaDasData" /> </p>
 
-<script type="text/javascript" src="https://counter10.stat.ovh/private/counter.js?c=AnkitaDasData"></script>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AnkitaDasData&label=Profile%20views&color=lightgrey&style=flat" alt="AnkitaDasData" />
+</p>
 
-<noscript><a href="https://www.freecounterstat.com" title="free web counter">
-
-<img src="https://counter10.stat.ovh/private/freecounterstat.php?c=AnkitaDasData" border="0" alt="free web counter"></a></noscript>
 
 📫 Connect with me - www.linkedin.com/in/ankita-das-data
 
