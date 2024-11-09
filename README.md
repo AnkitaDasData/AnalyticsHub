@@ -29,4 +29,4 @@ The repository is a space for placing samples of Analytical efforts:
 
 <br>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnkitaDasData&label=Profile%20views&color=lightgrey&style=flat" alt="AnkitaDasData" /> </p>
-📫 Reach me on [LinkedIn: ankita-das-data](www.linkedin.com/in/ankita-das-data)
+📫 Reach me on www.linkedin.com/in/ankita-das-data
