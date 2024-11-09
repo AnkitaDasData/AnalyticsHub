@@ -4,7 +4,6 @@ Hi, I’m @AnkitaDasData and this is my **AnalyticsHub**
 <br>  
 # Projects  
 The repository is a space for placing samples of Analytical efforts:  
-<br>  
 - **Documentation** of thought process, challenges, and/or possible future directions for each idea.  
 - These may contain:  
   - **Efforts**: *(in progress or experimental)*  
