@@ -1,10 +1,10 @@
 • Categorize countries based on needs 
 – Clustering using some socio-economic and health factors that determine the overall development of a country and suggest the countries which need the most help.
 -----------------------------------------------------------------------------------------------------------------
-Situation :
-Task :
-Action :
-Result :
+Situation : Analyzing Countries
+Task : Categorize Countries
+Action : Use Clustering
+Result : Identify which countries need the most help
 -----------------------------------------------------------------------------------------------------------------
 Analysis - Categorize_Countries_needs.ipynb
 Data Source - Country-data.csv
