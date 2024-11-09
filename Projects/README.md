@@ -19,7 +19,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnkitaDasData&label=Profile%20views&color=lightgrey&style=flat" alt="AnkitaDasData" /> </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AnkitaDasData&label=Profile%20views&color=lightgrey&style=flat" alt="AnkitaDasData" />
+  <img src="https://komarev.com/ghpvc/?username=AnkitaDasData&label=Visitors%20Count&color=green&style=flat-square" alt="AnkitaDasData" />
 </p>
 
 
