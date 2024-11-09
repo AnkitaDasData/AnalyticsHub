@@ -1,4 +1,5 @@
-Lead score prediction for a company which sells online courses 
+
+• Lead score prediction for a company which sells online courses 
 – Creating logistic regression model to assign a lead score to each lead which can be used to target potential leads accordingly. A higher score would mean that the lead is likely to convert.
 -----------------------------------------------------------------------------------------------------------------
 Situation : Investigate Prospective Customers
