@@ -16,8 +16,8 @@
 </div>
 
 <br>  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnkitaDasData&label=Views&color=lightgrey&style=flat" alt="AnkitaDasData" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnkitaDasData&label=Views&color=lightgrey&style=flat" alt="AnkitaDasData" /> </p>
 📫 Connect with me - www.linkedin.com/in/ankita-das-data
 
 
