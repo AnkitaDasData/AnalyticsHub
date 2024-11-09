@@ -2,9 +2,9 @@
 # Projects  
 <div align="center">
   
-| | Name | Theme | Area |
+| | Name | Area | Theme | 
 |-|----------|----------|----------|
-|1.| Categorize_Countries_needs   | Clustering using some socio-economic and health factors to find the countries which need the most help   |Clustering   |
+|1.| Categorize_Countries_needs   | Clustering   | Using socio-economic and health factors to find the countries which need the most help |
 |2.| Row 2    | Data 3   | Data 4   |
 |3.| Row 3    | Data 5   | Data 6   |
 
