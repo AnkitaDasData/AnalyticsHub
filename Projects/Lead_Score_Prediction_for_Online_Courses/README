@@ -4,10 +4,10 @@
 Situation : Investigate Prospective Customers
 Task : Find Lead scores for potential leads
 Action : Logistic Regression 
-Result : Find scores
+Result : Find appropriate scores
 -----------------------------------------------------------------------------------------------------------------
 Analysis - Lead_Score_Prediction_for_Online_Courses.ipynb
-Data - 
+Data - Leads.csv
 
 | Variables                                           | Description                                                                                                                                          |
 |-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
