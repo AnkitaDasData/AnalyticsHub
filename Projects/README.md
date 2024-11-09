@@ -1,9 +1,5 @@
 
 # Projects  
-The repository is a space for placing samples of Analytical efforts:  
-<br>  
-<br>  
-
 <div align="center">
   
 | Name | Theme | Area |
