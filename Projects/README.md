@@ -3,10 +3,10 @@
 <div align="center">
   
 | | Name | Area | Theme | 
-|-|----------|----------|----------|
-|1.| Categorize_Countries_needs   | Clustering   | Using socio-economic and health factors to find the countries which need the most help |
-|2.| Row 2    | Data 3   | Data 4   |
-|3.| Row 3    | Data 5   | Data 6   |
+|-|--------------------------------------------|----------------------------------|------------------------------------------------------------------------------------------|
+|1.| Categorize_Countries_needs                | Clustering                       | Using socio-economic and health factors to find the countries which need the most help   |
+|2.| Predict_Bike_Rental_Demand                | Multiple Linear Regression model | Predicting of demand for shared bikes based on various factors                           |
+|3.| Lead_Score_Prediction_for_Online_Courses  | Logistic regression              | Assigning lead score to potential customer leads to target leads more likely to convert.   |
 
 </div>
 
