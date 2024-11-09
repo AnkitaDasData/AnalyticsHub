@@ -1,7 +1,4 @@
-Hi, I’m @AnkitaDasData and this is my **AnalyticsHub**  
-<br>  
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=This+is+a+repository+of+Projects;Analytics+Hub)](https://git.io/typing-svg)  
-<br>  
+
 # Projects  
 The repository is a space for placing samples of Analytical efforts:  
 <br>  
