@@ -9,7 +9,7 @@ The repository is a space for placing samples of Analytical efforts:
 
 <div align="center">
   
-|Project Name | Header 2 | Header 3 |
+| Name | Theme | Area |
 |----------|----------|----------|
 | Row 1    | Data 1   | Data 2   |
 | Row 2    | Data 3   | Data 4   |
