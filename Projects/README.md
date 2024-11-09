@@ -2,11 +2,11 @@
 # Projects  
 <div align="center">
   
-| Name | Theme | Area |
-|----------|----------|----------|
-| Row 1    | Data 1   | Data 2   |
-| Row 2    | Data 3   | Data 4   |
-| Row 3    | Data 5   | Data 6   |
+| | Name | Theme | Area |
+|-|----------|----------|----------|
+|1.| Categorize_Countries_needs   | Clustering using some socio-economic and health factors to find the countries which need the most help   |Clustering   |
+|2.| Row 2    | Data 3   | Data 4   |
+|3.| Row 3    | Data 5   | Data 6   |
 
 </div>
 
