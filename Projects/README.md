@@ -16,7 +16,7 @@
 |  | Name                                       | Area                             | Theme                                                                                    | 
 |--|--------------------------------------------|----------------------------------|------------------------------------------------------------------------------------------|
 |1.| LLM_with_Semantic_Search                  | Large Language model             | Using  open source vector database / Weaviate, Performing accurate and efficient document retrieval     |
-|2.| Exploring_PySpark                         | PySpark Usage                    | Using pyspark.sql                                                                                        | 
+|2.| Exploring_PySpark                         | PySpark Usage                    | Using pyspark.sql to analyze listening data                                                            | 
   
 </div>
 
