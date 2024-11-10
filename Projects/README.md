@@ -1,6 +1,7 @@
 
 # Projects  
 <div align="center">
+  
 |  | Name                                       | Area                             | Theme                                                                                    | 
 |--|--------------------------------------------|----------------------------------|------------------------------------------------------------------------------------------|
 |1.| Categorize_Countries_needs                | Clustering                       | Using socio-economic and health factors to find the countries which need the most help   |
@@ -11,6 +12,7 @@
 </div>
 # Exploring  
 <div align="center">
+  
 |  | Name                                       | Area                             | Theme                                                                                    | 
 |--|--------------------------------------------|----------------------------------|------------------------------------------------------------------------------------------|
 |1.| LLM_with_Semantic_Search                  | Large Language model             | Using  open source vector database / Weaviate, Performing accurate and efficient document retrieval     |
