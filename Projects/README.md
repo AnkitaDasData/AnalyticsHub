@@ -10,7 +10,8 @@
 |4.| Customer_Churn_Analysis_PySpark           | Binary Classification            | Using telecommunication company data for generating recommendations to avoid churn        |  
   
 </div>
-# Exploring  
+
+# Package Explorations  
 <div align="center">
   
 |  | Name                                       | Area                             | Theme                                                                                    | 
