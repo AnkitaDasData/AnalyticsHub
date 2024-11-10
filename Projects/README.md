@@ -7,13 +7,15 @@
 |2.| Predict_Bike_Rental_Demand                | Multiple Linear Regression       | Predicting of demand for shared bikes based on various factors                           |
 |3.| Lead_Score_Prediction_for_Online_Courses  | Logistic Regression              | Assigning lead score to potential customer leads to target leads more likely to convert   |
 |4.| Customer_Churn_Analysis_PySpark           | Binary Classification            | Using telecommunication company data for generating recommendations to avoid churn        |  
+  
 </div>
 # Exploring  
 <div align="center">
 |  | Name                                       | Area                             | Theme                                                                                    | 
 |--|--------------------------------------------|----------------------------------|------------------------------------------------------------------------------------------|
 |1.| LLM_with_Semantic_Search                  | Large Language model             | Using  open source vector database / Weaviate, Performing accurate and efficient document retrieval     |
-|2.| Exploring_PySpark                         | PySpark Usage                    | Using pyspark.sql                                                                                        |                                                
+|2.| Exploring_PySpark                         | PySpark Usage                    | Using pyspark.sql                                                                                        | 
+  
 </div>
 
 
