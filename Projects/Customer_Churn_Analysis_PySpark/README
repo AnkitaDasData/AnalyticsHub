@@ -1,1 +1,11 @@
 
+• Customer Churn Classification
+– Creating classification model which can be used to identify patterns in churn
+-----------------------------------------------------------------------------------------------------------------
+Situation : Investigate Churn
+Task : Find feature importance
+Action : Classification
+Result : Predict Churn
+-----------------------------------------------------------------------------------------------------------------
+Analysis - Customer_Churn_Analysis_PySpark.ipynb
+Data - dataset.csv
