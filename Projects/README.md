@@ -7,7 +7,8 @@
 |1.| Categorize_Countries_needs                | Clustering                       | Using socio-economic and health factors to find the countries which need the most help   |
 |2.| Predict_Bike_Rental_Demand                | Multiple Linear Regression       | Predicting of demand for shared bikes based on various factors                           |
 |3.| Lead_Score_Prediction_for_Online_Courses  | Logistic Regression              | Assigning lead score to potential customer leads to target leads more likely to convert   |
-|4.| Customer_Churn_Analysis_PySpark           | Binary Classification            | Using telecommunication company data for generating recommendations to avoid churn        |  
+|4.| Customer_Churn_Analysis_PySpark           | Binary Classification            | Using telecommunication company data for generating recommendations to avoid churn        | 
+|5.| Generative_Search_Answers                 | Chunking and Embedding            | Retrieving and returning relevant text snippets from a database or index based based on meaning rather than exact words        |  
   
 </div>
 
