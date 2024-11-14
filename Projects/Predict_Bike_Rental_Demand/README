@@ -4,20 +4,10 @@
 • Predict bike rental demand 
 – Creating multiple linear regression model for prediction of demand for shared bikes based on various factors
 -----------------------------------------------------------------------------------------------------------------
-Situation :
-A bike-sharing provider has a daily dataset on the rental bikes based on various environmental and seasonal settings.
-It wishes to use this data to understand the factors affecting the demand for these shared bikes in the market and come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown due to corona pandemic comes to an end.
-Task :
-Find which variables are significant in predicting the demand for shared bikes.
-How well those variables describe the bike demands
-Action :
-The solution is divided into the following sections:
-1. Data understanding and exploration
-2. Data Visualisation
-3. Data preparation
-4. Model building and evaluation
-Result :
-Simplest model with final predictors which have fairly low correlations
+Situation   : A bike-sharing provider has a daily dataset on the rental bikes based on various environmental and seasonal settings. It wishes to use this data to understand the factors affecting the demand for these shared bikes in the market and come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown due to corona pandemic comes to an end.
+Task        : Find which variables are significant in predicting the demand for shared bikes. How well those variables describe the bike demands
+Action      : Multiple Linear Regression
+Result      : Simplest model with final predictors which have fairly low correlations
 -----------------------------------------------------------------------------------------------------------------
 Analysis - Predict_Bike_Rental_Demand.ipynb
 Data - day.csv
