@@ -1,1 +1,7 @@
+Diabetes_Prediction_PySpark		
+----------------------------------------------------------------------------------------
+Situation: Using available Health factors data to find patterns and indicators 
+Task: Using health factors to predict Diabetes
+Action: Logistic Regression
+Result: Identification of factors and relationship 
 
