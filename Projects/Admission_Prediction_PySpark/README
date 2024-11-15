@@ -1,0 +1,6 @@
+| Admission_Prediction_PySpark              | Linear Regression                 | Using chance of Admit to predict admission                                                |
+----------------------------------------------------
+Situation : Analyzing Admission Records
+Task      : Predict admissions
+Action    : Linear Regression
+Result    :  Linear Regression model
