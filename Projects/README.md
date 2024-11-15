@@ -9,7 +9,9 @@
 |3.| Lead_Score_Prediction_for_Online_Courses  | Logistic Regression              | Assigning lead score to potential customer leads to target leads more likely to convert   | 
 |4.| Customer_Churn_Analysis_PySpark           | Binary Classification            | Using telecommunication company data for generating recommendations to avoid churn        | 
 |5.| Diabetes_Prediction_PySpark               | Logistic Regression              | Using health factors to predict Diabetes                                                  |
-|6.| Generative_Search_Answers                 | Chunking and Embedding            | Retrieving and returning relevant text snippets from a database or index based based on meaning rather than exact words        |  
+|6.| Admission_Prediction_PySpark              | Linear Regression                 | Using chance of Admit to predict admission                                                |
+|7.| Generative_Search_Answers                 | Chunking and Embedding            | Retrieving and returning relevant text snippets from a database or index based based on meaning rather than exact words        |
+
   
 </div>
 
