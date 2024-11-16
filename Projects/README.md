@@ -22,6 +22,7 @@
 |--|--------------------------------------------|----------------------------------|------------------------------------------------------------------------------------------|
 |1.| LLM_with_Semantic_Search                  | Large Language model             | Using  open source vector database / Weaviate, Performing accurate and efficient document retrieval     | 
 |2.| Exploring_PySpark                         | PySpark Usage                    | Using pyspark.sql to analyze data                                                            | 
+|3.| Excel_Analytics_Superstore                |Excel|   Exploring Excel usage as a tool for analytics |
   
 </div>
 
