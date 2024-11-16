@@ -15,7 +15,7 @@
   
 </div>
 
-# Package Explorations  
+# Explorations  
 <div align="center">
   
 |  | Name                                       | Area                             | Theme                                                                                    |
