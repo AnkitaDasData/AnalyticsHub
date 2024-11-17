@@ -10,4 +10,4 @@ The repository is a space for placing samples of Analytical efforts:
 📫 Connect with me - www.linkedin.com/in/ankita-das-data
 
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitadasdata&theme=aura_dark" height="150em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnkitaDasData&theme=aura_dark" height="150em" />
