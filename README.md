@@ -11,4 +11,4 @@ The repository is a space for placing samples of Analytical efforts:
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ankitadasdata&theme=one-dark"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnkitaDasData&label=Profile%20views&color=lightgrey&style=flat" alt="AnkitaDasData" /> </p>
+<img align="center" src="https://komarev.com/ghpvc/?username=AnkitaDasData&label=Profile%20views&color=lightgrey&style=flat" alt="AnkitaDasData" /> 
