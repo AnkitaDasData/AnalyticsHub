@@ -10,5 +10,4 @@ The repository is a space for placing samples of Analytical efforts:
 📫 Connect with me - www.linkedin.com/in/ankita-das-data
 
 
-
-<img align="center" src="https://komarev.com/ghpvc/?username=AnkitaDasData&label=Profile%20views&color=lightgrey&style=flat" alt="AnkitaDasData" /> 
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ankitadasdata&theme=one-dark"/>
