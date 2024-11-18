@@ -11,6 +11,7 @@
 |5.| Diabetes_Prediction_PySpark               | Logistic Regression              | Using health factors to predict Diabetes                                                  |
 |6.| Admission_Prediction_PySpark              | Linear Regression                 | Using chance of Admit to predict admission                                                |
 |7.| Generative_Search_Answers                 | Chunking and Embedding            | Retrieving and returning relevant text snippets from a database or index based based on meaning rather than exact words        |
+|8.| Loan_Credit_Risk_PowerBI                  | PowerBI                           | Visualize and Understand Credit Risk data |
 
   
 </div>
